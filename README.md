@@ -1,1 +1,1 @@
-symbolic_calculation
+Parser for mathematical terms
